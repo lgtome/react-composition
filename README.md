@@ -1,6 +1,6 @@
 ## Example of React composition
 
-### Reference link to the article
+### Reference link to the article: https://dev.to/lgtome/react-components-composition-2djl
 
 ## Installation
 
